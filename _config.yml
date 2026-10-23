@@ -1,0 +1,23 @@
+title: Gordon Heltzel, PhD
+tagline: Quantitative and mixed-methods UX researcher
+description: "Quantitative and mixed-methods UX researcher. Surveys, psychometrics, behavioral data, R. PhD in social and personality psychology; formerly Android Auto UX Research at Google."
+url: "https://thegordogg.github.io"
+baseurl: ""
+email: gordonheltzel@gmail.com
+linkedin: https://www.linkedin.com/in/gheltzel/
+scholar: https://scholar.google.com/citations?user=bk7ueToAAAAJ
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
