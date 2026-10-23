@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif">
   <rect width="760" height="360" fill="#ffffff"/>
-  <text x="40" y="34" font-size="17" font-weight="600" fill="#1f2328">Qualitative coding at scale, with an audit trail at every step</text>
-  <text x="40" y="56" font-size="13" fill="#59636e">6,504 open-ended responses across 32 questions. Every percentage in the report traces back to a participant,</text>
-  <text x="40" y="74" font-size="13" fill="#59636e">a quote, a code, a definition, and an adjudication note.</text>
-  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#9aa4ae"/></marker></defs>
-  <rect x="40" y="100" width="210" height="72" rx="8" fill="#f5f7f9" stroke="#d9dee3"/>
-  <text x="145" y="126" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Codebook per question</text>
-  <text x="145" y="146" font-size="11.5" fill="#59636e" text-anchor="middle">built inductively; inclusion and</text>
-  <text x="145" y="161" font-size="11.5" fill="#59636e" text-anchor="middle">exclusion rules; anchor quotes</text>
-  <line x1="250" y1="136" x2="273" y2="136" stroke="#9aa4ae" stroke-width="1.5" marker-end="url(#a)"/>
-  <rect x="275" y="100" width="210" height="72" rx="8" fill="#f5f7f9" stroke="#d9dee3"/>
-  <text x="380" y="126" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Two independent coders</text>
-  <text x="380" y="146" font-size="11.5" fill="#59636e" text-anchor="middle">on every cell</text>
-  <text x="380" y="161" font-size="11.5" fill="#59636e" text-anchor="middle">81% raw agreement, κ .75–.87</text>
-  <line x1="485" y1="136" x2="508" y2="136" stroke="#9aa4ae" stroke-width="1.5" marker-end="url(#a)"/>
-  <rect x="510" y="100" width="210" height="72" rx="8" fill="#f5f7f9" stroke="#d9dee3"/>
-  <text x="615" y="126" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Blind adjudication</text>
-  <text x="615" y="146" font-size="11.5" fill="#59636e" text-anchor="middle">1,232 disagreements, all resolved,</text>
-  <text x="615" y="161" font-size="11.5" fill="#59636e" text-anchor="middle">rationale saved per cell</text>
-  <line x1="615" y1="172" x2="615" y2="208" stroke="#9aa4ae" stroke-width="1.5" marker-end="url(#a)"/>
-  <rect x="510" y="210" width="210" height="72" rx="8" fill="#e8f1fa" stroke="#0b5fa5"/>
-  <text x="615" y="236" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Human blind re-code</text>
-  <text x="615" y="256" font-size="11.5" fill="#59636e" text-anchor="middle">my blind re-code of a sample: 92%</text>
-  <text x="615" y="271" font-size="11.5" fill="#59636e" text-anchor="middle">agreement; none touched a conclusion</text>
-  <line x1="508" y1="246" x2="487" y2="246" stroke="#9aa4ae" stroke-width="1.5" marker-end="url(#a)"/>
-  <rect x="275" y="210" width="210" height="72" rx="8" fill="#e8f1fa" stroke="#0b5fa5"/>
-  <text x="380" y="236" font-size="13" font-weight="600" fill="#1f2328" text-anchor="middle">Findings, every quote traceable</text>
-  <text x="380" y="256" font-size="11.5" fill="#59636e" text-anchor="middle">subgroup differences judged against</text>
-  <text x="380" y="271" font-size="11.5" fill="#59636e" text-anchor="middle">thresholds set from the data</text>
-  <text x="40" y="236" font-size="12" font-weight="600" fill="#1f2328">What the trail caught</text>
-  <text x="40" y="254" font-size="11.5" fill="#59636e">models ignoring negations;</text>
-  <text x="40" y="269" font-size="11.5" fill="#59636e">comments attributed to the</text>
-  <text x="40" y="284" font-size="11.5" fill="#59636e">wrong journey</text>
-  <text x="40" y="330" font-size="12" fill="#9aa4ae">Schematic of the method; no study data shown.</text>
+  <text x="40" y="34" font-size="17" font-weight="600" fill="#111111">Qualitative coding at scale, with an audit trail at every step</text>
+  <text x="40" y="56" font-size="13" fill="#5b6168">6,504 open-ended responses across 32 questions. Every percentage in the report traces back to a participant,</text>
+  <text x="40" y="74" font-size="13" fill="#5b6168">a quote, a code, a definition, and an adjudication note.</text>
+  <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#111111"/></marker></defs>
+  <rect x="40" y="100" width="210" height="72" fill="#f4f4f0" stroke="#111111"/>
+  <text x="145" y="126" font-size="13" font-weight="600" fill="#111111" text-anchor="middle">Codebook per question</text>
+  <text x="145" y="146" font-size="11.5" fill="#5b6168" text-anchor="middle">built inductively; inclusion and</text>
+  <text x="145" y="161" font-size="11.5" fill="#5b6168" text-anchor="middle">exclusion rules; anchor quotes</text>
+  <line x1="250" y1="136" x2="273" y2="136" stroke="#111111" stroke-width="1.5" marker-end="url(#a)"/>
+  <rect x="275" y="100" width="210" height="72" fill="#f4f4f0" stroke="#111111"/>
+  <text x="380" y="126" font-size="13" font-weight="600" fill="#111111" text-anchor="middle">Two independent coders</text>
+  <text x="380" y="146" font-size="11.5" fill="#5b6168" text-anchor="middle">on every cell</text>
+  <text x="380" y="161" font-size="11.5" fill="#5b6168" text-anchor="middle">81% raw agreement, κ .75–.87</text>
+  <line x1="485" y1="136" x2="508" y2="136" stroke="#111111" stroke-width="1.5" marker-end="url(#a)"/>
+  <rect x="510" y="100" width="210" height="72" fill="#f4f4f0" stroke="#111111"/>
+  <text x="615" y="126" font-size="13" font-weight="600" fill="#111111" text-anchor="middle">Blind adjudication</text>
+  <text x="615" y="146" font-size="11.5" fill="#5b6168" text-anchor="middle">1,232 disagreements, all resolved,</text>
+  <text x="615" y="161" font-size="11.5" fill="#5b6168" text-anchor="middle">rationale saved per cell</text>
+  <line x1="615" y1="172" x2="615" y2="208" stroke="#111111" stroke-width="1.5" marker-end="url(#a)"/>
+  <rect x="510" y="210" width="210" height="72" fill="#f2c94c" fill-opacity=".35" stroke="#111111"/>
+  <text x="615" y="236" font-size="13" font-weight="600" fill="#111111" text-anchor="middle">Human blind re-code</text>
+  <text x="615" y="256" font-size="11.5" fill="#5b6168" text-anchor="middle">my blind re-code of a sample: 92%</text>
+  <text x="615" y="271" font-size="11.5" fill="#5b6168" text-anchor="middle">agreement; none touched a conclusion</text>
+  <line x1="508" y1="246" x2="487" y2="246" stroke="#111111" stroke-width="1.5" marker-end="url(#a)"/>
+  <rect x="275" y="210" width="210" height="72" fill="#1f4fa3" fill-opacity=".12" stroke="#111111"/>
+  <text x="380" y="236" font-size="13" font-weight="600" fill="#111111" text-anchor="middle">Findings, every quote traceable</text>
+  <text x="380" y="256" font-size="11.5" fill="#5b6168" text-anchor="middle">subgroup differences judged against</text>
+  <text x="380" y="271" font-size="11.5" fill="#5b6168" text-anchor="middle">thresholds set from the data</text>
+  <text x="40" y="236" font-size="12" font-weight="600" fill="#d7262a">What the trail caught</text>
+  <text x="40" y="254" font-size="11.5" fill="#5b6168">models ignoring negations;</text>
+  <text x="40" y="269" font-size="11.5" fill="#5b6168">comments attributed to the</text>
+  <text x="40" y="284" font-size="11.5" fill="#5b6168">wrong journey</text>
+  <text x="40" y="330" font-size="12" fill="#8a9199">Schematic of the method; no study data shown.</text>
 </svg>

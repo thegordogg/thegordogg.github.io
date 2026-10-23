@@ -9,7 +9,7 @@ About 490 citations. Full list on [Google Scholar](https://scholar.google.com/ci
 
 ## Peer-reviewed
 
-- **Heltzel, G., & Laurin, K.** (2024). Why Twitter sometimes rewards what most people disapprove of: The case of cross-party political relations. *Psychological Science, 35*(9), 976–994. [doi:10.1177/09567976241258149](https://doi.org/10.1177/09567976241258149) · [case study](/work/attitudes-vs-behavior/)
+- **Heltzel, G., & Laurin, K.** (2024). Why Twitter sometimes rewards what most people disapprove of: The case of cross-party political relations. *Psychological Science, 35*(9), 976–994. [doi:10.1177/09567976241258149](https://doi.org/10.1177/09567976241258149) · [case study](/projects/attitudes-vs-behavior/)
 - **Heltzel, G., & Laurin, K.** (2021). Seek and ye shall be fine: Attitudes toward political perspective-seekers. *Psychological Science, 32*(11), 1782–1800. [doi:10.1177/09567976211011969](https://doi.org/10.1177/09567976211011969)
 - **Heltzel, G., & Laurin, K.** (2020). Polarization in America: Two possible futures. *Current Opinion in Behavioral Sciences, 34*, 179–184. [link](https://www.sciencedirect.com/science/article/pii/S2352154620300450)
 - **Eyink, J. R., Motz, B. A., Heltzel, G., & Liddell, T. M.** (2020). Self-regulated studying behavior, and the social norms that influence it. *Journal of Applied Social Psychology, 50*(1), 10–21. [doi:10.1111/jasp.12637](https://doi.org/10.1111/jasp.12637)
